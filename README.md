@@ -1,2 +1,1 @@
-# SoftUniPBCourse
-SoftUni Programming Basics Course - Java - tasks
+# These are some programming tasks I've took on during my SoftUni Java PB course.
